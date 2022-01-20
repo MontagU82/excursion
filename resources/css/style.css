@@ -2,12 +2,12 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
     background-color: black;
     text-align: center;
+    color: white;
 
 }
 h1 {
     font-weight: normal;
     font-size: 50px;
-    color: white;
 }
 h2 {
     font-size: 42px;
@@ -20,4 +20,17 @@ p {
 .dl-link {
     color: aquamarine;
     font-size: 16px;
+}
+.vid {
+    margin-top: 20px;
+}
+.expl img {
+    margin: 20px;
+}
+.announcement img {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.copy {
+    text-align: right;
 }
